@@ -1,1 +1,1 @@
-# test-repo-for-credantials
+# test-repo-for-credentials
